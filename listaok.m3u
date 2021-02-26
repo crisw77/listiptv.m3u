@@ -1,0 +1,204 @@
+#EXTM3U
+
+#EXTINF:-1,Record SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?IMDSFULL
+#EXTINF:-1,REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w856431346.m3u8?IMDSFULL
+#EXTINF:-1,Rede Brasil SP
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?IMDSFULL
+#EXTINF:-1,SBT HD SP
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
+#EXTINF:-1,TV CULTURA PR HD
+http://200.189.113.201/hls/tve.m3u8?IMDSFULL
+#EXTINF:-1,TV Gazeta MA (2)
+http://stmv4.srvstm.com/wagner1168/wagner1168/playlist.m3u8?IMDSFULL
+#EXTINF:-1,CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?IMDSFULL
+#EXTINF:-1,Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?IMDSFULL
+#EXTINF:-1, CNN
+https://peertube.co.uk/static/webseed/10a97c2b-84db-41af-91c4-738a5a16b42d-640.mp4?IMDSFULL
+#EXTINF:-1, BAND NEWS
+http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8?IMDSFULL
+#EXTINF:-1, RECORD NEWS
+https://peertube.co.uk/static/webseed/10a97c2b-84db-41af-91c4-738a5a16b42d-640.mp4?IMDSFULL
+#EXTINF:-1,Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8?IMDSFULL
+#EXTINF:-1,Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8?IMDSFULL
+#EXTINF:-1,Record SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?IMDSFULL
+#EXTINF:-1,Record SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8?IMDSFULL
+#EXTINF:-1,Record SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8?IMDSFULL
+#EXTINF:-1,Record RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8?IMDSFULL
+#EXTINF:-1,Record BA HD
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8?IMDSFULL
+#EXTINF:-1,Record PA HD
+http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-b.m3u8?IMDSFULL
+#EXTINF:-1,SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?IMDSFULL
+#EXTINF:-1,SBT CARUARU HD
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?IMDSFULL
+#EXTINF:-1,TV CULTURA PR HD
+http://200.189.113.201/hls/tve.m3u8?IMDSFULL
+#EXTINF:-1,Smithsonian Panda Cam 1
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8?IMDSFULL
+#EXTINF:-1,Smithsonian Panda Cam 2
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8?IMDSFULL
+#EXTINF:-1,DC Eagle Cam
+http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8?IMDSFULL
+#EXTINF:-1,Washington - District of Columbia - White House
+http://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8?IMDSFULL
+#EXTINF:-1,Staten Island - New York
+http://100.42.129.28:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Hamilton - New York
+http://149.43.156.105:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,San Francisco - California - KNTV Cam
+http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8?IMDSFULL
+#EXTINF:-1,Herndon - Virginia - Midway Home Service
+http://71.41.73.146:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Vermont - Middlebury College
+http://140.233.86.204:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Vermont - Middlebury College Library
+http://140.233.86.205:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Sandusky - Ohio - Cedar Point Park 01
+http://cs2.pixelcaster.com:1935/live/cedar1.stream/playlist.m3u8?IMDSFULL
+#EXTINF:-1,Sandusky - Ohio - Cedar Point Park 03
+http://cs2.pixelcaster.com:1935/live/cedar2.stream/playlist.m3u8?IMDSFULL
+#EXTINF:-1,Bloomsburg - Pennsylvania - Bloomsburg University
+http://148.137.190.230:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Fairfield - Montana
+http://76.75.8.116:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Montreal - Quebec
+http://69.70.89.58:8001/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Pieksamaki - Pieksanjarvi Lake
+http://79.141.146.78:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Sjoberg - Vasterbottens Lan
+http://81.8.239.195:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Gjora - SuCom AS
+http://88.84.54.2:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Den Haag - Zuid-Holland
+http://145.131.207.18:82/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,FSC Webcam
+http://62.214.4.38:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Bremen - Gemeinde Rednitzhembach Rathausplatz
+http://217.91.208.210:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Salzburg 02
+http://195.70.117.61:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Rauris - Rauriser Marktplatz
+http://195.70.107.151:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Jerzens - Tirol - Airport
+http://83.218.163.132:8081/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Basel-Stadt - Neubau Biozentrum
+http://131.152.126.150:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Zurich - Stalder Kucher
+http://213.200.245.146:83/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Sverdlovsk Oblast - Lukino-Varino
+http://46.160.244.38:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Korolyov - Moscow Oblast - Korolev Sity
+http://46.160.254.214:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Chrzanowice - Gomunice Lodzkie
+http://91.222.109.142:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Tarnow - Malopolskie - Starodabrowska Polnoc
+http://95.174.36.75:8084/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Zlin
+http://77.48.209.214:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Velke Mezirici - Vysocina Kraj
+http://78.156.144.221:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Richmond - Virginia - Science Museum of Virginia
+http://184.80.5.148:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Clear Lake - South Dakota
+http://75.102.185.50:8888/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Madison - Wisconsin 01
+http://198.150.52.75:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Boston - Massachusetts
+http://129.10.161.241:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Rome - Lazio - St. Peter's Basilica
+http://93.146.249.144:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Pisa - Toscana
+http://79.5.248.181:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Praia Matosinhos
+http://213.13.26.11:1935/live/matosinhos.stream/livestream.m3u8?IMDSFULL
+#EXTINF:-1,Ryazan Oblast - Vyshenski Monastyr
+http://212.26.225.115:80/mjpg/video.mjpg?IMDSFULL
+#EXTINF:-1,Shanghai - Skyline
+http://bililive.kksmg.com/hls/sdi80/playlist.m3u8?IMDSFULL
+#EXTINF:-1,Praça da Inspiração - Goiânia
+https://peertube.co.uk/static/webseed/282aed3b-eec5-4a3e-9e4d-170e0eef8235-720.mp4?IMDSFULL
+#EXTINF:-1,Ponta da Praia - Santos SP
+https://peertube.co.uk/static/webseed/282aed3b-eec5-4a3e-9e4d-170e0eef8235-720.mp4?IMDSFULL
+#EXTINF:-1,Barra da Tijuca
+https://cdn.jmvstream.com/w/IPC-6849/camera.stream/chunklist_w2094923708.m3u8?IMDSFULL
+#EXTINF:-1,Ponte Internacional da Amizade
+https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/chunklist.m3u8?IMDSFULL
+#EXTINF:-1,Praia de Tramandaí
+https://peertube.co.uk/static/webseed/282aed3b-eec5-4a3e-9e4d-170e0eef8235-720.mp4?IMDSFULL
+#EXTINF:-1,AEROPORTO MAJOR BRIGADEIRO(CÂMERA 2)
+http://cameras.interaviation.com.br/camera02/interaviation2.m3u8?IMDSFULL
+#EXTINF:-1,ESTÚDIO 96.5 FM RIO DE JANEIRO - RJ
+http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8?IMDSFULL
+#EXTINF:-1,ESTÚDIO 100.5 FM RIO DE JANEIRO - RJ
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?IMDSFULL
+#EXTINF:-1,CAMERA PANDA AO VIVO 2
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8?IMDSFULL
+#EXTINF:-1,CAMERA PANDA AO VIVO 3
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8?IMDSFULL
+#EXTINF:-1,BALTIMORA AO VIVO
+https://videos3.earthcam.com/fecnetwork/15658.flv/chunklist_w331834704.m3u8?IMDSFULL
+#EXTINF:-1,BOGNORREGIS-UK AO VIVO
+https://videos3.earthcam.com/fecnetwork/5288.flv/chunklist_w721329289.m3u8?IMDSFULL
+#EXTINF:-1,CAMERA DOS TIGRES AO VIVO
+http://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/Playlist.m3u8?IMDSFULL
+#EXTINF:-1,5 FM - Estúdio Ao Vivo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8?IMDSFULL
+#EXTINF:-1,ESTUDIO 96.5 FM RIO DE JANEIRO - RJ
+http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8?IMDSFULL
+#EXTINF:-1,ESTUDIO 100.5 FM RIO DE JANEIRO - RJ
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?IMDSFULL
+#EXTINF:-1,FLORIDA MARINA CAM AO VIVO
+https://videos3.earthcam.com/fecnetwork/8891.flv/chunklist_w246661914.m3u8?IMDSFULL
+#EXTINF:-1,FRANÇA SERRA PARIS AO VIVO
+http://live.webcam-hd.fr/64connections/chamrousse2.stream/chunklist_w689467311.m3u8?IMDSFULL
+#EXTINF:-1,MIAMI BEACHES AO VIVO
+https://videos3.earthcam.com/fecnetwork/13862.flv/chunklist_w309672791.m3u8?IMDSFULL
+#EXTINF:-1,MURO DAS LAMENTAÇÕES AO VIVO
+https://568bc781ac9d7.streamlock.net/23595_LIVE_Kotel_Live1/_definst_/23595_LIVE_Kotel_Live1/playlist.m3u8?IMDSFULL
+#EXTINF:-1,NEW YORK TIMES SQUARE CAM 1
+https://videos3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w48750913.m3u8?IMDSFULL
+#EXTINF:-1,PRAIA BASE NAUTIC FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/ronce.stream/chunklist_w2060603395.m3u8?IMDSFULL
+#EXTINF:-1,PRAIA ANGLET - MADRAGUE
+http://live.webcam-hd.fr/64connections/angletmadrague.stream/chunklist_w538216640.m3u8?IMDSFULL
+#EXTINF:-1,PRAIA BIARRITZ LA GRANDE PLAGE FRANÇA
+http://live.webcam-hd.fr/64connections/biarritzgrandeplage.stream/chunklist_w295965600.m3u8?IMDSFULL
+#EXTINF:-1,PRAIA FRANÇA AO VIVO
+http://live.webcam-hd.fr/64connections/hossegor.stream/chunklist_w1153937984.m3u8?IMDSFULL
+#EXTINF:-1,PRAIA FRANÇA AO VIVO(2)
+http://live.webcam-hd.fr/64connections/seignossebourdaines.stream/chunklist_w797396608.m3u8?IDMSFULL
+#EXTINF:-1,PRAIA FRANÇA SEIGNOSSE - LES BOURDAINES
+http://live.webcam-hd.fr/64connections/ronce.stream/chunklist_w1815044778.m3u8?IMDSFULL
+#EXTINF:-1,PRAIA LA TREMBLADE - BASE NAUTIQUE
+http://live.webcam-hd.fr/64connections/hossegor.stream/chunklist_w622108662.m3u8?IMDSFULL
+#EXTINF:-1,PRAIA LE HAVRE FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/lehavre.stream/chunklist_w338268426.m3u8?IMDSFULL
+#EXTINF:-1,PRAIA HENDAYE VUE FIXE FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/hendayevuefixe.stream/chunklist_w545247319.m3u8?IMDSFULL
+#EXTINF:-1,PRAIA PONTAILLAC FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/royanpontaillac.stream/chunklist_w34224111.m3u8?IMDSFULL
+#EXTINF:-1,PRAIA SAINT BRÉVIN FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/saintbrevin.stream/chunklist_w961795737.m3u8?IMDSFULL
+#EXTINF:-1,PRAIA SAINT-JEAN-DE-LUZ FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/stjeandeluz.stream/chunklist_w1710448646.m3u8?IMDSFULL
+#EXTINF:-1,PRAIA SIOUVILLE FRANÇA - AO VIVO
+http://live.webcam-hd.fr/64connections/siouville.stream/chunklist_w2022378642.m3u8?IMDSFULL
+#EXTINF:-1,PRAIA ZARAUTZ TAHIT
+http://live.webcam-hd.fr/64connections/zarautz.stream/chunklist_w636387154.m3u8?IMDSFULL
+#EXTINF:-1,SAN FRANCISCO 360° AO VIVO
+https://videos3.earthcam.com/fecnetwork/6961.flv/chunklist_w335961271.m3u8?IMDSFULL
+#EXTINF:-1,SLOPPY JOE'S BAR (KEY WEST) WEBCAM AO VIVO
+https://wowzaprod192-i.akamaihd.net/hls/live/768242/a7d28752/playlist.m3u8?IMDSFULL
+#EXTINF:-1,THAILAND AO VIVO
+https://videos3.earthcam.com/fecnetwork/14329.flv/chunklist_w670501004.m3u8?IMDSFULL
